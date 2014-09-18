@@ -21,7 +21,6 @@ Bundle 'vim-scripts/pep8.git'
 Bundle 'alfredodeza/pytest.vim.git'
 Bundle 'reinh/vim-makegreen'
 Bundle 'rodjek/vim-puppet.git'
-Bundle 'sontek/rope-vim.git'
 Bundle 'ScrollColors'
 syntax on
 filetype plugin indent on
