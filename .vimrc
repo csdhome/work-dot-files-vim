@@ -23,6 +23,7 @@ Bundle 'reinh/vim-makegreen'
 Bundle 'rodjek/vim-puppet.git'
 Bundle 'ScrollColors'
 syntax on
+set mouse=a
 filetype plugin indent on
 let g:NERDTreeDirArrows=0
 
