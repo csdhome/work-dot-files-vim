@@ -128,7 +128,7 @@ set backupdir=~/.vimbackup//
 
 set background=dark
 "colorscheme solarized
-colorscheme oceanblack256
+"colorscheme oceanblack256
 "colorscheme 256-jungle
 "colorscheme zenburn
 if version < 703
